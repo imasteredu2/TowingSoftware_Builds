@@ -1,2 +1,1 @@
-# TowingSoftware_Builds
-Towing Management Software that is Standalone and still actively being updated and built.
+TowingSoftware is a comprehensive application designed to manage and streamline operations for towing service providers. It offers features for dispatching, database management, user authorization, and reporting. The software helps automate daily tasks such as vehicle dispatch, record-keeping, and compliance tracking, making it easier for towing companies to organize their workflow, maintain accurate records, and improve overall efficiency.
